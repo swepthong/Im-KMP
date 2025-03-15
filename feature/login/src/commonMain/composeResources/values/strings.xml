@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_login">帐号登录</string>
+    <string name="server_set">服务器设置</string>
+    <string name="account">帐号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="privacy_server_set">私有化服务器设置</string>
+    <string name="privacy_server_set_hint">服务器地址请输入，默认端口</string>
+    <string name="confirm">确定</string>
+    <string name="message">消息</string>
+    <string name="workspace">工作台</string>
+    <string name="contact">通讯录</string>
+    <string name="document">文档</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message">消息</string>
+    <string name="send_group_chat">发送群聊</string>
+    <string name="scan">扫一扫</string>
+    <string name="back">返回</string>
+    <string name="permission_message">To be notified when you have new messages, please grant the notification permission.</string>
+    <string name="permission_rationale">Please grant the notification permission so that the app can demonstrate usage of the Notification APIs.</string>
+    <string name="permission_grant">GRANT</string>
+</resources>
